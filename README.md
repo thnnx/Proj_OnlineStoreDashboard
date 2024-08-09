@@ -16,7 +16,29 @@ An online shopping store request to improve their current sales report from stat
 - Display how much products sold to which client and how it has been over time.
 - Sales manager / Sales person (viewer and user) should be able to filter reports by date, months, customer, product, category and city.
 - Provide dashboard to display all the reports that can be refreshed every time they have new data.
-  
+
+### User Stories
+
+<b>Role: Sales Manager</b>
+
+<b>Request:</b> Detail overview of Online Sales
+
+<b>Value / Purpose:</b>
+  - To continuously follow the progress on which customers and products sells the best
+  - To monitor sales over time against budget alloted for the year
+    
+<b>Proposal:</b> Power BI Dashboard with dynamic reports using graphs, tables and KPIs
+
+
+<b>Role: Sales Representative</b>
+
+<b>Request:</b> Detail overview of Online Sales specifically on Customers and Products
+
+<b>Value / Purpose:</b>
+  - To closely monitor customers that buy the most products
+  - To monitor sales of products that sells the best
+    
+<b>Proposal:</b> Power BI Dashboard with filterable reports
 
 ## Metrics
 - Total Sales
@@ -92,7 +114,7 @@ Customer Table
           CustomerKey ASC -- Ordered List by CustomerKey
       
 
-InternetSales Table 
+Calendar Table 
 
         SELECT 
           [DateKey], 
@@ -110,6 +132,7 @@ InternetSales Table
 
 ## Summary of Insights
 
+  - 
   - Pizza sells the most during weekdays (Sunday and Saturday) and lowest every Tuesday
   - July had the highest number of orders followed by January, March, May and August, with the lowest in October.
   - Each pizza category sells almost evenly - Classic (27%), Supreme (25%), Chicken (24%), Veggie (24%)
