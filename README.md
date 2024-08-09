@@ -107,7 +107,7 @@ Full page link of the Interactive Power BI Dashboard click this link - [App Powe
 
 ![OnlineStoreDB](OnlineStoreDashboard_SS.PNG)
 
-![OnlineStoreDB2](OnlineStoreDashboard2_SS.PNG)
+![OnlineStoreDB2](OnlineStoreDashboard_SS2.PNG)
 
 
 ## Summary of Insights
