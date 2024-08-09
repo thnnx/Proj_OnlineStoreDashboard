@@ -13,8 +13,9 @@ An online shopping store request to improve their current sales report from stat
 
 <b>Key points:</b>
 - Analyze into more details the following KPIs Total sales, total budget alloted, difference of alloted budget from sales, total sold product.
-- Display the how much products sold to which client and how it has been over time.
+- Display how much products sold to which client and how it has been over time.
 - Sales manager / Sales person (viewer and user) should be able to filter reports by date, months, customer, product, category and city.
+- Provide dashboard to display all the reports that can be refreshed every time they have new data.
   
 
 ## Metrics
