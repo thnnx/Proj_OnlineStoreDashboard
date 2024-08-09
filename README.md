@@ -50,9 +50,9 @@ An online shopping store request to improve their current sales report from stat
 ## Data Visualization
 Full page link of the Interactive Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=ab86eeef-e986-4a47-ba2d-28199c7f2942&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
 
-![OnlineStoreDB](OnlineStoreDashboard_SS.PNG)
+![OnlineStoreDB](OnlineStoreDashboard.PNG)
 
-![OnlineStoreDB2](OnlineStoreDashboard_SS2.PNG)
+![OnlineStoreDB2](OnlineStoreDashboard2.PNG)
 
 ## Data Access
 
