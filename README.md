@@ -132,16 +132,12 @@ Calendar Table
 
 ## Summary of Insights
 
-  - 
-  - Pizza sells the most during weekdays (Sunday and Saturday) and lowest every Tuesday
-  - July had the highest number of orders followed by January, March, May and August, with the lowest in October.
-  - Each pizza category sells almost evenly - Classic (27%), Supreme (25%), Chicken (24%), Veggie (24%)
-
-
-## Recommendations
-
-  - Weekly restocking of supplies should be done a day or two prior the most selling day of the week (Sunday and Saturday)
-  - Focus more on restocking monthly for the following top selling months - Januray, March, May, July and August
-  - Consider adding another menu category (Meaty, Beefy, etc) to add more variety on the flavor.
-  - Focus more on selling L, M, S sizes of pizza instead of XL and XXL, as these two had the lowest sales.
-
+  - Online Sales for 2020 (16.35M) surpass the total budget of 15.3M
+  - A difference of 1.05M between Sales and Budget, which can be considered as gross profit for the year 2020
+  - Total sold product, 52,801, most of it comes from Bikes category which is 15M in sales 94% of the total sales
+  - The most total sales was in December (1.87M), but it didn't surpass the budget for that month (2M)
+  - The highest sales month which surpass the budget is in Jun (1.64M) with budget of 1.1M. Considered a 0.5M gross profit in June
+  - London has the most sales where customers a buying
+  - Top customers are Jordan Turner with 11.5K spent on products, followed by Maurice Shan(10.8K) and Janet Munoz(10.4K)
+  - Top 10 products where all sold from Bike category
+    
