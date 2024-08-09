@@ -25,6 +25,13 @@ An online shopping store request to improve their current sales report from stat
 - Sales Budget Difference
 - Top Customer and Products
 
+## Data Visualization
+Full page link of the Interactive Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=ab86eeef-e986-4a47-ba2d-28199c7f2942&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
+
+![OnlineStoreDB](OnlineStoreDashboard_SS.PNG)
+
+![OnlineStoreDB2](OnlineStoreDashboard_SS2.PNG)
+
 ## Data Access
 
 <b>A one time SQL Database access was given to extract the needed data for the reports using following SQL queries:</b>
@@ -100,15 +107,6 @@ InternetSales Table
          [AdventureWorksDW2019].[dbo].[DimDate]
         WHERE 
           CalendarYear >= 2019
-
-
-## Data Visualization
-Full page link of the Interactive Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=ab86eeef-e986-4a47-ba2d-28199c7f2942&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
-
-![OnlineStoreDB](OnlineStoreDashboard_SS.PNG)
-
-![OnlineStoreDB2](OnlineStoreDashboard_SS2.PNG)
-
 
 ## Summary of Insights
 
