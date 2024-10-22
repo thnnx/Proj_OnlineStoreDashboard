@@ -54,6 +54,11 @@ Full page link of the Interactive Power BI Dashboard click this link - [App Powe
 
 ![OnlineStoreDB2](OnlineStoreDashboard2.PNG)
 
+## Data Structure
+Online store sales data structure consists of 5 tables (FACT_InternetSales, FACT_Budget, DIM_Customers, DIM_Products, DIM_Calendar) and 2 measure tables (Top10, _All measures) with a total of row count of 60,000 records.
+
+![data_structure_1](data_structure_1.PNG)
+
 ## Data Access
 
 <b>A one time SQL Database access was given to extract the needed data for the reports using following SQL queries:</b>
